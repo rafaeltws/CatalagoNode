@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <title>Document</title>
+</head>
+<body>
+    <style>
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap');
+:root {
+  --primary-color: rgb(230, 42, 42);
+  --primary-color-red: rgb(121, 1, 1);
+}
+
+* {
+  box-sizing: border-box;
+  outline: 0;
+}
+
+body {
+    background-image: url(https://img.freepik.com/vetores-premium/fundo-de-respingo-de-sangue_31825-602.jpg);
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+    font-family: 'Open sans', sans-serif;
+    font-size: 1.3em;
+    line-height: 1.5em;
+}
+
+.container {
+  max-width: 640px;
+  margin: 50px auto;
+  background: #fff;
+  padding: 20px;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+form input, form label, form button {
+  display: block;
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+form input {
+  font-size: 24px;
+  height: 50px;
+  padding: 0 20px;
+}
+
+form input:focus {
+  outline: 1px solid var(--primary-color);
+}
+
+button {
+  border: none;
+  background: var(--primary-color);
+  color: #fff;
+  font-size: 18px;
+  font-weight: 500;
+  height: 50px;
+  width: 50px;
+  cursor: pointer;
+  margin-top: 10px;
+  border-radius: 10px;
+}
+    </style>
+    <h1 class="h1">Buscar Filme</h1>
+    <div class="container">
+     <form action="http://localhost:3001/buscar-filme/:nome" method="GET" class="form">
+         <label for="nome_paciente">Nome do Filme:</label>
+         <input type="text" id="nome" name="nome" required><br>
+         <br>
+ 
+         <button class="btn" type="submit">Buscar paciente</button>
+     </form>
+    </div>
+</body>
+</html>

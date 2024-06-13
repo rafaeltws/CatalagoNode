@@ -1,0 +1,46 @@
+[
+	{
+		"nome": "O iluminado",
+		"desc": "The Shining (bra: O Iluminado; prt: Shining) é um filme de terror psicológico de 1980 produzido e dirigido por Stanley Kubrick e co-escrito com a romancista Diane Johnson. O filme é baseado no romance homônimo de Stephen King, de 1977, e estrelado por Jack Nicholson, Shelley Duvall, Scatman Crothers e Danny Lloyd.",
+		"url_info": "https://pt.wikipedia.org/wiki/The_Shining",
+		"url_foto": "https://vejasp.abril.com.br/wp-content/uploads/2016/11/20124691.jpeg?quality=70&strip=info&w=478&w=636",
+		"url_video": "https://www.youtube.com/watch?v=dSQ3yN5yJ0g"
+		
+	},
+	{
+		"nome": "It a coisa",
+		"desc": "It, também conhecido como It Chapter One e It: Part 1 - The Losers' Club (prt: It[2]; bra: It - A Coisa[1]), é um filme de terror sobrenatural norte-americano de 2017,[5] dirigido por Andy Muschietti, baseado no livro homônimo de 1986, escrito por Stephen King. O roteiro adaptado é de Chase Palmer, Cary Fukunaga e Gary Dauberman.",
+		"url_info": "https://pt.wikipedia.org/wiki/It_(2017)",
+		"url_foto": "https://uauposters.com.br/media/catalog/product/1/1/111120180226-uau-posters-filmes-terror-it-a-coisa-palhaco.jpg",
+		"url_video": "https://www.youtube.com/watch?v=dD264ZjfKlk"
+		
+	},
+	{
+		"nome": "Scream",
+		"desc": "Scream (bra: Pânico[3]; prt: Gritos[4]) é um filme americano de 1996, do subgênero slasher, escrito por Kevin Williamson e dirigido por Wes Craven. É estrelado por Neve Campbell, David Arquette, Courteney Cox, Matthew Lillard, Skeet Ulrich, Rose McGowan, Drew Barrymore, e Jamie Kennedy.",
+		"url_info": "https://pt.wikipedia.org/wiki/Scream_(1996)",
+		"url_foto": "https://muitomolho.com/wp-content/uploads/2013/03/scream.jpg",
+		"url_video": "https://www.youtube.com/watch?v=i3J6ACKQ7K0"
+	},
+	{
+		"nome": "Massacre da serra elétrica",
+		"desc": "The Texas Chain Saw Massacre[nota 2] (bra: O Massacre da Serra Elétrica; prt: Massacre no Texas) é um filme americano de 1974, dos gêneros terror e slasher, de produção independente, dirigido por Tobe Hooper. O roteiro foi escrito por Hooper em parceria com Kim Henkel",
+		"url_info": "https://pt.wikipedia.org/wiki/The_Texas_Chain_Saw_Massacre",
+		"url_foto": "https://assets.cinebelasartes.com.br/wp-content/uploads/2023/02/o-massacre-da-serra-eletrica-min.png",
+		"url_video": "https://www.youtube.com/watch?v=6cwOiUz0Eew"
+	},
+	{
+		"nome": "Sexta-feira 13",
+		"desc": "Sexta-Feira 13 (em inglês: Friday the 13th) é um filme norte-americano de 1980, do gênero terror, dirigido por Sean S. Cunningham e escrito por Victor Miller. É o primeiro longa-metragem da extensa cinessérie Friday the 13th. O enredo gira em torno de um grupo de adolescentes que são mortos um a um por um assassino desconhecido enquanto tentam reabrir um acampamento abandonado.",
+		"url_info": "https://pt.wikipedia.org/wiki/Sexta-Feira_13_(1980)",
+		"url_foto": "https://upload.wikimedia.org/wikipedia/pt/b/b7/Sexta_Feira_13_%281980%29.jpg",
+		"url_video": "https://www.youtube.com/watch?v=dGT2-aWLHDw"
+	},
+	{
+		"nome": "Hora do pesadelo",
+		"desc": "A Nightmare on Elm Street (bra: A Hora do Pesadelo[2]; prt: Pesadelo em Elm Street[3][4]) é um filme estadunidense de 1984, do gênero terror, dirigido e escrito por Wes Craven, e o primeiro filme da franquia A Nightmare on Elm Street. O filme apresenta John Saxon, Heather Langenkamp, Ronee Blakley, Amanda Wyss, Jsu Garcia, Robert Englund e Johnny Depp, em sua estreia no cinema.",
+		"url_info": "https://pt.wikipedia.org/wiki/A_Nightmare_on_Elm_Street",
+		"url_foto": "https://br.web.img3.acsta.net/pictures/15/03/10/16/48/336112.jpg",
+		"url_video": "https://www.youtube.com/watch?v=16IpwmLGHkU"
+	}
+]
